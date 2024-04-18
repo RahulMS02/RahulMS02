@@ -1,18 +1,19 @@
+<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="MasterHead" width="1000" height="250">
 <h1 align="center">Hi 👋, I'm 𝑹𝑨𝑯𝑼𝑳 𝑴𝑺</h1>
 <h3 align="center">A Dedicated Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media"
+<img align="right" alt="Coding" width="400" src=""
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulms02&label=Profile%20views&color=0e75b6&style=flat" alt="rahulms02" /> </p>
 
 - 🌱 Studied at **SKCET**
 
-- 👨‍💻 Trainee ＠ [Aspire Systems](Aspire Systems)
+- 👨‍💻 Trainee ＠ **Aspire Systems**
 
 - 📝 𝓟𝓡𝓔𝓟𝓐𝓡𝓐𝓣𝓘𝓞𝓝 [✔︎](✔︎)
 
-- 💬 Interested in **Networking.**
+- 💬 _Interested_ in **_Networking._**
 
-- 📫 Reach me **hrithikrahul128@gmail.com**
+- 📫 Reach me - **hrithikrahul128@gmail.com**
 
 - 📄 𝙀𝙓𝙋𝙇𝙊𝙍𝙄𝙉𝙂 [♻️](♻️)
 
