@@ -1,7 +1,7 @@
 <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="MasterHead" width="1000" height="250">
 <h1 align="center">Hi 👋, I'm 𝑹𝑨𝑯𝑼𝑳 𝑴𝑺</h1>
 <h3 align="center">A Dedicated Software Developer</h3>
-<img align="right" alt="Coding" width="400" src=""
+<img align="right" alt="Coding" width="400" src="Right_Side.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulms02&label=Profile%20views&color=0e75b6&style=flat" alt="rahulms02" /> </p>
 
